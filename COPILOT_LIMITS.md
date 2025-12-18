@@ -90,7 +90,7 @@ GitHub Copilot adalah alat pelengkapan kode berbasis AI yang membantu pengembang
 #### 5. **Keamanan dan Privasi**
 - Saran kode didasarkan pada repositori kode publik
 - Untuk Bisnis/Enterprise: Opsi untuk mengecualikan kode dari pelatihan
-- Tidak boleh digunakan untuk memproses informasi sensitif atau milik tanpa paket yang sesuai
+- Tidak boleh digunakan untuk memproses informasi sensitif atau proprietary tanpa paket yang sesuai
 
 #### 6. **Batasan Konteks**
 - Terbatas pada file saat ini dan file terbuka di sekitarnya
@@ -119,6 +119,6 @@ GitHub Copilot adalah alat pelengkapan kode berbasis AI yang membantu pengembang
 
 ---
 
-**Note**: This documentation is current as of December 2024. Please check official GitHub documentation for the most up-to-date information.
+**Note**: This documentation reflects general information about GitHub Copilot. Please check official GitHub documentation for the most up-to-date information.
 
-**Catatan**: Dokumentasi ini berlaku hingga Desember 2024. Silakan periksa dokumentasi resmi GitHub untuk informasi terbaru.
+**Catatan**: Dokumentasi ini mencerminkan informasi umum tentang GitHub Copilot. Silakan periksa dokumentasi resmi GitHub untuk informasi terbaru.
